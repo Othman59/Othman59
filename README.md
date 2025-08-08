@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+#
+
 Hello, 
 
 je suis Othman ! Je suis un développeur web passionné, toujours à l'affût des dernières technologies. 
