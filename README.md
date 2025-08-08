@@ -6,7 +6,9 @@ je suis Othman ! Je suis un développeur web passionné, toujours à l'affût de
 J'aime créer des applications innovantes et résoudre des problèmes complexes pour construire des expériences utilisateur fluides et modernes.
 
 #
-Mes compétences : 
+Mes compétences :
+
+###
 
 <br clear="both">
 
@@ -28,6 +30,10 @@ Mes compétences :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###
