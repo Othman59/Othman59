@@ -1,11 +1,11 @@
-Bonjour 👋, 
+Bonjour, 
 
 je suis Othman ! Je suis un développeur web passionné, toujours à l'affût des dernières technologies. 
 ###
 J'aime créer des applications innovantes et résoudre des problèmes complexes pour construire des expériences utilisateur fluides et modernes.
 
-
-###
+#
+Mes compétences : 
 
 <br clear="both">
 
@@ -38,7 +38,28 @@ J'aime créer des applications innovantes et résoudre des problèmes complexes 
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
+##
+
+Projets
 ###
+Projet d'équipe : API de Restauration
+
+###
+J'ai eu l'occasion de travailler en équipe sur le développement d'une API robuste pour une application de restauration. 
+
+###
+
+Ce projet collaboratif m'a permis de consolider mes compétences techniques et interpersonnelles :
+
+Conception d'API REST : Nous avons conçu ensemble une architecture claire pour gérer les données des restaurants, des menus et des réservations.
+
+Développement back-end : J'ai personnellement contribué à l'implémentation des endpoints et de la logique métier à l'aide de Node.js et du framework Express.
+
+Gestion de base de données : J'ai travaillé avec MongoDB pour la manipulation efficace des données de l'application.
+
+Collaboration : Ce projet m'a appris à travailler avec d'autres développeurs, à gérer les contributions sur Git et à participer aux révisions de code pour garantir la qualité de notre travail.
+
+#
 
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer. Mon objectif est de continuer à apprendre et à grandir en tant que développeur, en contribuant à des projets qui font la différence.
 
