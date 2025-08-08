@@ -1,7 +1,8 @@
-Bonjour, 
+Hello, 
 
 je suis Othman ! Je suis un développeur web passionné, toujours à l'affût des dernières technologies. 
 ###
+
 J'aime créer des applications innovantes et résoudre des problèmes complexes pour construire des expériences utilisateur fluides et modernes.
 
 #
@@ -55,7 +56,7 @@ Conception d'API REST : Nous avons conçu ensemble une architecture claire pour 
 
 Développement back-end : J'ai personnellement contribué à l'implémentation des endpoints et de la logique métier à l'aide de Node.js et du framework Express.
 
-Gestion de base de données : J'ai travaillé avec MongoDB pour la manipulation efficace des données de l'application.
+Gestion de base de données : J'ai travaillé avec DBeaver pour la manipulation efficace des données de l'application.
 
 Collaboration : Ce projet m'a appris à travailler avec d'autres développeurs, à gérer les contributions sur Git et à participer aux révisions de code pour garantir la qualité de notre travail.
 
