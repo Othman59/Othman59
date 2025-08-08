@@ -78,7 +78,10 @@ Lien gitHub : https://github.com/Othman59/Api-restaurant
 
 #
 
-N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer. Mon objectif est de continuer à apprendre et à grandir en tant que développeur, en contribuant à des projets qui font la différence.
+N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer. 
+###
+
+Mon objectif est de continuer à apprendre et à grandir en tant que développeur, en contribuant à des projets qui font la différence.
 
 
 
