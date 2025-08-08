@@ -1,10 +1,6 @@
-# Profil
-My personal Profile
+Bonjour 👋, 
 
-Pour un profil README efficace, il est important d'être à la fois concis et informatif. Voici un exemple de texte que vous pouvez utiliser, en le modifiant avec vos propres informations pour qu'il vous corresponde parfaitement.
-
-Bonjour 👋, je suis Douz Othman !
-Je suis un développeur web passionné, toujours à l'affût des dernières technologies. J'aime créer des applications innovantes et résoudre des problèmes complexes pour construire des expériences utilisateur fluides et modernes.
+je suis Douz Othman ! Je suis un développeur web passionné, toujours à l'affût des dernières technologies. J'aime créer des applications innovantes et résoudre des problèmes complexes pour construire des expériences utilisateur fluides et modernes.
 
 🚀 Mes compétences
 
