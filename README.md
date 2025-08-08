@@ -1,6 +1,7 @@
 Bonjour 👋, 
 
 je suis Othman ! Je suis un développeur web passionné, toujours à l'affût des dernières technologies. 
+##
 J'aime créer des applications innovantes et résoudre des problèmes complexes pour construire des expériences utilisateur fluides et modernes.
 
 
