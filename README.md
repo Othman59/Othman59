@@ -21,7 +21,7 @@ J'aime créer des sites et applications innovantes et résoudre des problèmes p
 
 ###
 
-Au cours de ma formation et de mes projets personnels, j’ai travaillé avec des technologies telles que HTML, CSS, C#, React, JavaScript, Flutter, PHP, Postgresql en accordant une attention particulière à la qualité du code et à l’expérience utilisateur.
+Au cours de ma formation et de mes projets personnels, j’ai travaillé avec des technologies telles que HTML, CSS, JavaScript, React, Flutter, PHP, Postgresql, C# en accordant une attention particulière à la qualité du code et à l’expérience utilisateur.
 
 Motivé, curieux et doté d’un bon esprit d’apprentissage, je serais ravi d’échanger avec vous afin de vous présenter mon profil et ma motivation à rejoindre votre entreprise 
 
