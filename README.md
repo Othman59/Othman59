@@ -21,8 +21,6 @@ J'aime créer des sites et applications innovantes et résoudre des problèmes p
 
 ###
 
-Au cours de ma formation et de mes projets personnels, j’ai travaillé avec des technologies telles que HTML, CSS, JavaScript, React, Flutter, PHP, Postgresql, C# en accordant une attention particulière à la qualité du code et à l’expérience utilisateur.
-
 Motivé, curieux et doté d’un bon esprit d’apprentissage, je serais ravi d’échanger avec vous afin de vous présenter mon profil et ma motivation à rejoindre votre entreprise 
 
 #
@@ -45,7 +43,7 @@ Mes compétences :
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
