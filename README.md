@@ -10,7 +10,7 @@ Hello,
 je suis Othman ! 
 ###
 
-Je suis un développeur web junior passionné, toujours à l'affût des dernières technologies. 
+Je suis un développeur web passionné, toujours à l'affût des dernières technologies. 
 ###
 
 Je recherche une opportunité pour continuer à développer mes compétences
